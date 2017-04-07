@@ -1,6 +1,6 @@
 Afrânio Mendes Catani
 
-# O QUE É CAPITALISMO
+O QUE É CAPITALISMO
 
 SUMÁRIO
 
@@ -19,7 +19,7 @@ Sobre os autores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Para Bertha, Júlia e Bárbara,
 filhas queridas.
 
-# INTRODUÇÃO
+# Introdução
 
 Das teorias que procuram explicar o que é o capitalismo,
 destacam-se duas grandes correntes, representadas por Max
@@ -75,8 +75,8 @@ capitalismo: do pós-guerra ao início do século XXI” e “Capitalismo no Bra
 elaborados por Sávio Cavalcante.
 
 
-# II O CAPITALISMO EM GERAL
-#Max Weber e o capitalismo
+# O Capitalismo em geral
+# Max Weber e o capitalismo
 
 Em *A ética protestante e o espírito do capitalismo* e em
 sua *História geral da economia*, Max Weber objetivou compreender o capitalismo como civilização — a civilização do
@@ -216,7 +216,7 @@ concepção de Weber, as estreitas relações existentes entre as
 aspirações religiosas do calvinismo e as aspirações mundanas
 do capitalismo.
 
-# O modo de produção capitalista
+## O modo de produção capitalista
 
 Maurice Dobb, tentando conceituar o capitalismo da maneira mais simples possível, afirma que ele é um sistema em que
 os utensílios e as ferramentas, edifícios e matérias-primas com
@@ -473,7 +473,7 @@ metal precioso que serve para fazer artigos de joalheria, para
 confeccionar dentes postiços etc., e é o equivalente geral, o
 meio de troca geral”.
 
-# II
+## II
 
 Embora o dinheiro seja apenas uma mercadoria especial, é
 uma mercadoria com uma função definida que se desenvolve
@@ -659,90 +659,66 @@ trabalho, dois elementos do processo de trabalho que desempenham papéis diferen
 produto e especialmente na formação da mais-valia. Todavia,
 os meios de produção e a força de trabalho desempenham funções totalmente distintas no processo de valorização, na produção de mais-valia.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-32
-
-12/01/2011
-
-12:04
-
-Página 32
-
-AFRÂNIO MENDES CATANI
-
 Os meios de produção (máquinas, instrumentos de trabalho, matérias-primas) são transformados em produtos pela força
 de trabalho, e o seu valor é assim transferido sem modificação
-para o produto acabado. Por isso Marx o chama capital constante. Já o mesmo não se passa com a força de trabalho, cujo
-valor é determinado pelo valor dos meios de subsistência necessários. No entanto, no processo de produção capitalista não
+para o produto acabado. Por isso Marx o chama *capital constante*. Já o mesmo não se passa com a força de trabalho, cujo
+valor é determinado pelo valor dos meios de subsistência necessários. No entanto, no processo de produção capitalista, não
 é o valor da força de trabalho que opera, mas sim o seu valor de
 uso, o trabalho vivo, o qual cria um novo valor no processo de
 produção, um valor mais elevado que a soma de capital originalmente transformado em força de trabalho.
-Consequentemente, chama-se capital variável a essa fração do capital investido na força de trabalho, que aumenta no
+
+Consequentemente, chama-se *capital variável* a essa fração do capital investido na força de trabalho, que aumenta no
 processo de trabalho, criando mais-valia. E para se exprimir o
 grau de exploração da força de trabalho pelo capital tem-se que
 comparar a mais-valia não com o capital total, mas unicamente
 com o capital variável. A taxa de mais-valia — nome dado por
 Marx a essa relação — pode ser assim representada:
+
+
 taxa de mais-valia = mais-valia
+
 capital variável
+
 
 Segundo Marx, o aumento da mais-valia é possível graças
 a dois processos fundamentais: o prolongamento da jornada de
-trabalho (mais-valia absoluta) e a redução do tempo de trabalho necessário (mais-valia relativa). Marx, ao analisar o processo
+trabalho (*mais-valia absoluta*) e a redução do tempo de trabalho necessário (*mais-valia relativa*). Marx, ao analisar o processo
 de prolongamento da jornada de trabalho, traça um quadro
 grandioso da luta da classe operária pela redução da jornada de
 trabalho e da intervenção do poder de Estado, primeiro para
 prolongá-la (século XIV a XVII) e depois para reduzi-la (legislação fabril do século XIX).
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 33
-
-33
-
-Acrescenta Lênin que “depois da publicação de O Capital
+Acrescenta Lênin que “depois da publicação de *O Capital*,
 a história do movimento operário, em todos os Países civilizados, fornece milhares e milhares de novos fatos que ilustram
 esse quadro”. Na sua análise da produção da mais-valia relativa, Marx estuda as três etapas históricas fundamentais no processo de intensificação da produtividade do trabalho pelo
 capitalismo, quais sejam:
+
+
 1. a cooperação simples;
+
 2. a divisão do trabalho e a manufatura;
+
 3. as máquinas e a grande indústria.
+
 
 A profundidade com que a análise de Marx revela os traços fundamentais e típicos do desenvolvimento do capitalismo
 aparece, entre outras coisas, no fato de o estudo da chamada
 indústria artesanal russa fornecer materiais muito abundantes
 para ilustrar as duas primeiras dessas três etapas. De acordo
 com Lenin, a ação revolucionária da grande indústria mecanizada, descrita por Marx em 1867, manifestou-se em vários países “novos”, como por exemplo Rússia e Japão.
+
 Mas o que há de novo e extremamente importante em
-Marx é a análise da acumulação do capital, isto é da transformação de uma parte da mais-valia em capital e do seu emprego
+Marx é a análise da *acumulação do capital*, isto é, da transformação de uma parte da mais-valia em capital e do seu emprego
 não para satisfazer as necessidades pessoais ou caprichos do capitalista, mas para voltar a produzir.
+
 Marx assinalou o erro de toda a economia política clássica
 anterior (desde Adam Smith), segundo a qual toda a mais-valia
-que se convertia em capital passava a fazer parte do capital variável, quando, na realidade, ela se decompõe em meios de produção e em capital variável. O crescimento mais rápido da parte
+que se convertia em capital passava a fazer parte do capital variável, quando, na realidade, ela se decompõe em *meios de produção* e em capital variável. O crescimento mais rápido da parte
 do capital constante (no montante total do capital) em relação
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-34
-
-12/01/2011
-
-12:04
-
-Página 34
-
-AFRÂNIO MENDES CATANI
-
 à parte do capital variável tem, no processo de desenvolvimento
 do capitalismo, uma importância primordial.
-III
+
+## III
 
 Assim, recuperando o exposto até o momento neste subtítulo, Marx analisa a mercadoria com as suas duas funções, a de
 valor de uso e a de valor de troca, antes de mostrar como o dinheiro converte-se em capital a partir do momento em que a
@@ -752,121 +728,83 @@ a mais-valia, ou seja, modo como é produzida pelos operários e
 apropriada pelos capitalistas. O passo seguinte consiste em deduzir como a relação entre o capital e o trabalho se altera quando
 se encara o processo de produção capitalista como um processo
 contínuo, um processo que se repete ininterruptamente.
+
 Não basta que uma soma de dinheiro se valorize apenas
-uma vez. Terá de expandir continuamente o seu valor e numa
-escala progressivamente ampliada. No Guia para a leitura do
-Capital lê-se que a concorrência que força cada capitalista individual a observar esta tendência imanente do capital.
+*uma vez*. Terá de expandir continuamente o seu valor e em uma
+escala progressivamente ampliada. No *Guia para a leitura do
+Capital* lê-se que a concorrência que força cada capitalista individual a observar esta tendência imanente do capital.
+
 Para sobreviver, aquele tem que expandir constantemente
 a sua fábrica, quer dizer, converter constantemente uma
 grande parte da mais-valia produzida em capital adicional, e
-comprar meios de produção e força de trabalho suplementares”. Acrescenta Marx que “à utilização da mais-valia como capital, a sua reconversão em capital, chama-se acumulação de
+comprar meios de produção e força de trabalho suplementares”. Acrescenta Marx que “à utilização da mais-valia como capital, a sua reconversão em capital, chama-se *acumulação de
 capital”. A produção de mais-valia só poderá aumentar continuamente por uma acumulação ininterrupta. Inversamente, tal
-acumulação só possível por um constante aumento da produção de mais-valia.
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 35
-
-35
+acumulação só possível por um constante aumento da produção de mais-valia.*
 
 Os fatores de produção comprados pelo capitalista (meios
 de produção e força de trabalho) têm que desempenhar a função de fatores de trabalho e fatores de valorização do capital, e
 o nível das forças produtivas determina a proporção entre a
 quantidade de meios de produção e a força de trabalho, que corresponde a uma razão determinada entre os valores do capital
 constante e do capital variável.
+
 Segundo Marx, quando a produtividade do trabalho aumenta graças a algum melhoramento técnico — isto é, quando
 o operário passa a produzir mais do que antes durante o mesmo
 período de tempo — utiliza-se maior quantidade de meios de
 produção. Por conseguinte, a razão entre os meios de produção e a força de trabalho e entre o capital constante e o capital
 variável sofre uma alteração.
+
 Quando um determinado aumento da produtividade do trabalho leva a uma modificação da razão entre o capital constante
-e o capital variável, Marx fala do aumento da composição orgânica do capital. À medida que a quantidade de meios de produção aumenta com relação à massa da força de trabalho, sob
+e o capital variável, Marx fala do *aumento da composição orgânica do capital*. À medida que a quantidade de meios de produção aumenta com relação à massa da força de trabalho, sob
 o aspecto do valor, o capital constante aumenta e o capital variável se reduz.
+
 Por exemplo, suponha-se uma soma de capital de 100 cruzados, dos quais 80 formam o capital constante e 20 o capital
 variável. Quando a produtividade do trabalho aumenta a porção do capital constante de 80 para 90 cruzados, tem-se que o
 capital variável baixa para 10 cruzados. A seguir, mostrar-se-á
 como a acumulação se acelera ainda mais por meio da centralização do capital.
-Marx deixa claro em O Capital que o movimento do capital não se esgota na acumulação, isto é, na ininterrupta transformação da mais-valia em capital suplementar. Há uma feroz
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-36
-
-12/01/2011
-
-12:04
-
-Página 36
-
-AFRÂNIO MENDES CATANI
-
+Marx deixa claro em *O Capital* que o movimento do capital não se esgota na acumulação, isto é, na ininterrupta transformação da mais-valia em capital suplementar. Há uma feroz
 luta concorrencial entre os capitalistas individuais, que se esforçam para produzir a maior quantidade possível de mercadorias e vendê-las ao menor preço. Nessa concorrência saem
 vitoriosos os capitalistas que tiverem criado as melhores condições de produção. As pequenas e médias empresas são compradas pelas maiores, ou ainda duas grandes firmas unem-se
 para eliminar uma terceira. Marx denomina esse processo de
-centralização do capital. E a centralização de vários pequenos
+*centralização* do capital. E a centralização de vários pequenos
 capitais em um só, mas maior, acelera a acumulação do capital:
 os capitais de maior dimensão estão em melhores condições financeiras do que os de menor dimensão para produzir nova maquinaria e aperfeiçoamentos técnicos.
+
 Assim, a produtividade do trabalho cresce muito mais rapidamente nas grandes empresas capitalistas, aumentando portanto a quantidade de mais-valia e de capital que pode ser
 acumulada. Esse valor mais elevado permite introduzir novos
 métodos de produção, e tal fato acarreta uma renovada aceleração do crescimento da composição orgânica do capital. Marx
 afirma que “as massas de capital que se fundem de um momento
 para outro pela centralização reproduzem-se e multiplicam-se
 tal como as outras, só que mais rapidamente, tornando-se portanto novas e poderosas alavancas de acumulação social, incluindo tacitamente nisto os efeitos da centralização”.
+
 O crescimento ininterrupto da composição orgânica do capital significa que o capital variável diminui relativamente ao capital constante. Alcançada maior produtividade do trabalho, os
 operários produzem uma quantidade de produtos maior do que
 antes, no mesmo período de tempo. Fazem maior sobretrabalho
 e produzem maior montante de mais-valia acumulável.
+
 O capital que se expande pela acumulação tem que transformar parte da mais-valia em capital constante e outra parte
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 37
-
-37
-
 em capital variável, podendo-se conseguir isso de duas maneiras: ou pura e simplesmente se alarga a escala de produção, permanecendo constante o nível técnico, ou introduzem-se
 aperfeiçoamentos técnicos, e, nesse caso, o número de operários diminui relativamente. Uma parte dos trabalhadores não
 poderá mais vender a sua força de trabalho e perderá os seus
 empregos. Marx, designa esta fração da classe operária por
-exército industrial de reserva.
+*exército industrial de reserva*.
+
 A produção nem sempre alcança o seu máximo (ou o seu
 pleno) havendo máquinas paradas e matérias-primas acumuladas nas instalações da empresa. Em consequência disso, muitos
 trabalhadores são despedidos. Quando nem todas as mercadorias da empresa conseguem ser escoadas para o mercado e
 transformadas em dinheiro, ocorre uma diminuição da acumulação.
+
 O processo de acumulação capitalista segue uma trajetória
 de constantes altos e baixos, em que períodos de negócios florescentes alternam-se com a estagnação e as quebras do mercado.
-Marx designa esse movimento por ciclo industrial (habitualmente chamado também de ciclo econômico). Esse ciclo é
+Marx designa esse movimento por *ciclo* industrial (habitualmente chamado também de ciclo econômico). Esse ciclo é
 constituído por cinco fases que se seguem umas às outras e indicam a respectiva situação da produção: Marx designa essas
 fases de períodos de atividade moderada, de prosperidade, de
 superprodução, de crise e de estagnação.
+
 A procura do trabalho por parte do capital aumenta ou diminui conforme o estado dos negócios. Na fase de prosperidade
 e superprodução, pode acontecer de a procura de trabalho exceder a oferta. Nessa situação, os trabalhadores que anteriormente formavam o exército industrial de reserva encontram
 empregos e os salários sobem, porque o capital precisa de mais
 trabalhadores do que os que há.
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-38
-
-12/01/2011
-
-12:04
-
-Página 38
-
-AFRÂNIO MENDES CATANI
 
 Todavia, num período de crise ou numa situação de restrição da produção, os trabalhadores são despedidos em grandes
 quantidades e o exército de reserva volta a crescer. Os salários
@@ -874,6 +812,7 @@ diminuem, e uma grande parte daqueles que não são despedidos tem muitas vezes 
 tempo parcial e a correspondente redução dos salários. O movimento da acumulação e o ciclo industrial determinam o número de pessoas que faz parte do exército industrial de reserva,
 isto é, determinam a quantidade de trabalhadores que pode
 vender a sua força de trabalho em determinado momento.
+
 Assim, para finalizar este segundo item, interessa retomar
 alguns dos aspectos arrolados, que permitem melhor explicitação da definição do capitalismo. Este se constitui em um sistema
 de organização da economia que pressupõe a existência de proprietários individuais dos meios de produção e, também, a existência de trabalhadores emancipados de obstáculos feudais,
@@ -881,28 +820,20 @@ tradicionais, como a servidão, a escravidão etc. O curso histórico
 do capitalismo — ultrapassadas suas origens manufatureiras e
 sua era heroica de luta contra o feudalismo — apresenta no nível
 econômico e social dois fenômenos fundamentais:
+
+
 • o surgimento de um capital concentrado e com vocação
 monopolística que, uma vez exauridos os mercados internos, tende a expandir-se pelo mundo todo, constituindo
 uma vasta rede imperialista;
+
 • o surgimento de uma classe operária organizada, que se
 apresenta com clara vocação universalista.
 
+
 Esses fenômenos transcendem o marco histórico e mental
 de Marx, principalmente o surgimento do imperialismo, que excedeu as possibilidades de sua investigação. O imperialismo, é
+conveniente salientar, não será objeto de estudo neste trabalho. Um volume desta coleção, com o título *O que é imperialismo*, trata do tema com mais profundidade.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 39
-
-39
-
-conveniente salientar, não será objeto de estudo neste trabalho. Um volume desta coleção, com o título O que é imperialismo, trata do tema com mais profundidade.
 Antes de prosseguir no exame do capitalismo, pretende-se
 traçar no subtítulo um quadro histórico que permita inserir sua
 definição formal e abstrata explorada até o momento. Assim,
@@ -911,63 +842,45 @@ condições de surgimento do capitalismo — criação de uma
 classe operária emancipada de obstáculos históricos anteriores
 — e a acumulação de capital — com aqueles progressos tecnológicos que tornaram possível a criação da indústria moderna.
 
-Gênese, desenvolvimento
-e crise do capitalismo
+## Gênese, desenvolvimento e crise do capitalismo
 
 Em outras formas de sociedade de classes além do capitalismo — como por exemplo na escravatura e na servidão da
 gleba — havia uma classe dirigente que vivia do trabalho ou do
 produto excedente produzido pelos trabalhadores. Maurice
-Dobb afirma, em seu livro Capitalismo, ontem e hoje, que foi
+Dobb afirma, em seu livro *Capitalismo, ontem e hoje*, que foi
 lento e complexo o processo pelo qual o capitalismo se desenvolveu a partir de uma forma anterior da sociedade de classes
 (feudalismo medieval), bem como a servidão da gleba da forma
 de produção original se transformou em trabalho assalariado.
 E as etapas de transição não foram, de forma alguma, nítidas, implicando importantes transformações políticas (no
 seio das classes e na política do Estado). De qualquer maneira, salienta Dobb ao tecer comentários acerca da dissolução
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-40
-
-12/01/2011
-
-12:04
-
-Página 40
-
-AFRÂNIO MENDES CATANI
-
 da sociedade feudal, podem-se distinguir duas fases importantes nessa transição:
+
+
 • na primeira o pequeno produtor obteve a sua emancipação, parcial ou completa, das obrigações feudais que sobre
 ele pesavam;
+
 • na segunda foi separado da sua propriedade dos próprios
 meios de produção (a sua pequena porção de terra, o seu
 gado e utensílios agrícolas ou de artesanato), e tornou-se
 dependente do trabalho assalariado para conseguir a subsistência.
 
-Foi esse o processo que Marx descreveu como de acumulação primitiva ou acumulação original, que deu origem à criação de um proletariado. A essência do processo era
+
+Foi esse o processo que Marx descreveu como de *acumulação primitiva* ou *acumulação original*, que deu origem à criação de um proletariado. A essência do processo era
 fundamentalmente a mesma, revestindo qualquer uma das seguintes formas:
+
 
 • de expulsão direta, com anexações de terras e expulsão
 de camponeses;
+
 • de empobrecimento e endividamento, conduzindo à execução eventual por dívida;
+
 • (em algumas regiões) de um crescimento da população
 maior do que a terra disponível podia suportar.
+
 
 Segundo Dobb, um elemento decisivo dessa evolução que
 deu origem à criação de um proletariado foi a desintegração social e econômica da comunidade de pequenos produtores. Para
 tal processo contribuiu a emancipação dessa comunidade da dependência da suserania feudal e o aumento da produção, orientada para um mercado mais vasto que o da povoação.
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 41
-
-41
 
 A partir daí ocorre também o desenvolvimento da troca
 em base monetária. Essa desintegração, por um lado, revestiu
@@ -976,88 +889,61 @@ um pequeno capital, aplicado no comércio e na usura. Por
 outro lado, levou à criação de uma camada inferior empobrecida, forçada pela miséria e pelas dívidas a trabalhar para um
 vizinho mais abastado, a hipotecar e até desfazer-se das suas
 terras.
+
 A fase crucial de ascensão do capitalismo é representada
 usualmente pela chamada Revolução Industrial, quando uma
 série de inovações técnicas que submetiam a potência mecânica — primeiro, a energia hidráulica, depois o vapor — à produção, transformou o processo de produção, transferindo-o da
 casa ou da oficina artesanal para a fábrica, tornando-o processo
 coletivo de dezenas e, mais tarde, de centenas de trabalhadores. Isso em lugar da produção insignificante, muitas vezes individual, de uma pessoa ou pequeno núcleo de pessoas com
 ferramentas e mecanismos manuais.
+
 Foi essa a transformação determinante que se constituiu
-no ponto de partida para a industrialização “... após a qual a
+no *ponto de partida* para a industrialização “... após a qual a
 acumulação de capital e a expansão econômica adquiriram aceleração própria”, segundo Dobb.
+
 A Revolução Industrial estabelece, nesse sentido, as principais fases do desenvolvimento capitalista, pelo simples motivo
 de que pressupõe a existência de certos níveis de acumulação
 capitalista sem os quais não parece viável a substituição da força
 de trabalho por máquinas cada vez mais aperfeiçoadas.
+
 As relações capitalistas de produção — ou seja, as relações do trabalho assalariado com o capital — tinham amadurecido durante dois séculos, ou mais, antes da Revolução
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-42
-
-12/01/2011
-
-12:04
-
-Página 42
-
-AFRÂNIO MENDES CATANI
-
 Industrial. Já no século XVI haviam sido introduzidos aperfeiçoamentos técnicos em algumas indústrias, que tinham lançado as bases para algo como a produção em escala de fábrica.
 As bombas aperfeiçoadas permitiram que a exploração mineira se fizesse em maior profundidade, e, desde então, levaram à criação de empresas mineradoras que dispunham de
 capitais de grande vulto.
+
 Os novos métodos de extração do sal, do fabrico do papel,
 da refinação do açúcar, a produção da pólvora, os novos processos de fundição do ferro em altos-fornos primitivos, da fundição do cobre, lançaram as bases para uma produção
 concentrada, proporcionando o nascimento de empresas cujos
 capitais ascendiam a milhares de libras.
+
 Dessa maneira, já no fim do reinado da rainha Isabel I (1558-1603) viam-se fábricas de papel e pólvora acionadas a energia
 hidráulica, oficinas de cobre e arame, além das máquinas têxteis
 que tinham surgido em cena muito mais cedo ainda. Isso significa, em suma, que houve transformações importantes nas forças de produção, mesmo na aurora do capitalismo, quando este
-ainda se desenvolvia no invólucro de uma sociedade predominantemente feudal:
+ainda se desenvolvia no invólucro de uma sociedade predominantemente feudal.
+
 Contudo, casos assim eram relativamente isolados, frequentemente restringidos pela falta de trabalho — que assentava por vezes na mão de obra recrutada à força, em especial de
 deportados, na indústria mineira —, trabalho que era assegurado pelos proprietários rurais ou grandes mercadores, e repousava constantemente na concessão de direitos de
 monopólio pela Coroa (para esse benefício era indispensável
 usufruir de influência na corte).
+
 A forma de produção mais corrente, em particular na área
 têxtil, tinha ainda por base o artesanato. Assim, podia ainda ser
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 43
-
-43
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-44
-
-12/01/2011
-
-12:04
-
-Página 44
-
-AFRÂNIO MENDES CATANI
-
 realizada em pequenas oficinas ou até em casa, por pessoas que
 continuavam a conservar uma pequena porção de terreno e
 combinavam a cultura em pequena escala com o artesanato
 como atividade secundária.
+
 Portanto era necessário capital para a aquisição de matérias-primas e para a organização da venda (e, às vezes, para o
 acabamento do produto), o que era assegurado por um mercador-fabricante, que deslocava o trabalho a ser realizado pelos
 artesãos nas aldeias ou nos subúrbios de cidades mercantis, organizava a divisão do trabalho em fases de produção (por exemplo, fiação, tecelagem, acabamento) e tratava da venda do
 produto acabado.
-A partir daí, as expressões indústria caseira ou doméstica e,
-também, sistema de deslocação têm sido usadas indiferentemente
+
+A partir daí, as expressões *indústria caseira* ou *doméstica* e,
+também, *sistema de deslocação* têm sido usadas indiferentemente
 para definir aquela que foi a forma de produção mais característica na fase inicial, na pré-Revolução Industrial do capitalismo, que
-Marx chamou a fase da manufatura por contraste com a da maquinofatura introduzida pela Revolução Industrial.
-Dobb considera esse início como uma fase do capitalismo,
+Marx chamou a fase da *manufatura* por contraste com a da *maquinofatura* introduzida pela Revolução Industrial.
+
+Dobb considera esse início como uma *fase* do capitalismo,
 isso porque os trabalhadores não estavam, regra geral, proletarizados, ou seja, não se encontravam ainda separados dos
 seus instrumentos de produção, nem mesmo, em muitos casos,
 da posse de uma pequena porção de terra. A produção estava
@@ -1065,207 +951,150 @@ dispersa, descentralizada, e não concentrada. O capitalista era
 ainda essencialmente um mercador que não exercia controle
 direto sobre a produção, e não impunha a sua própria disciplina
 ao trabalho do operário-artesão, que trabalhava em núcleos individuais (ou familiares) e conservava uma margem de independência importante (apesar de precária).
+
 Embora a situação fosse de transição e as relações do capital
-com o trabalho assalariado ainda se encontrassem em estado em-
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 45
-
-45
-
-brionário, este último já começava a adquirir os seus traços característicos. Nesse sistema a relação entre patrão e assalariado
+com o trabalho assalariado ainda se encontrassem em estado embrionário, este último já começava a adquirir os seus traços característicos. Nesse sistema a relação entre patrão e assalariado
 era bastante discernível e o pagamento que o artesão caseiro recebia pelo produto do seu trabalho assemelhava-se a um salário.
-O processo de desintegração do regime de produção em
+
+O processo de *desintegração* do regime de produção em
 que tais artesãos haviam trabalhado fez com que muitos desses
 artífices caseiros se encontrassem em dificuldades econômicas
 e perdessem a sua independência, tornando-se semiproletarizados. Os mais prósperos foram acumulando algum capital e
 converteram-se em patrões dos vizinhos pobres. E aqueles que
 financiaram e organizaram a indústria — e também lhe introduziram os aperfeiçoamentos em vez de serem primordialmente mercadores tornaram-se capitalistas em ascensão,
 oriundos das fileiras dos próprios produtores.
+
 Na indústria têxtil da segunda metade do século XVII, após
 a invenção de um novo tipo de tear, tornou-se comum o fato de
 que tais teares (demasiado caros para que as pessoas de poucos
 recursos pudessem comprá-los) fossem alugados aos artesãos
 caseiros, tendo até sido criada uma companhia exclusivamente
 para esse fim. Na miscelânea do comércio dos metais (incluindo
-o fabrico de agulhas e ferramentas) alguns capitalistas reuniam
+o fabrico de agulhas e ferramentas), alguns capitalistas reuniam
 os artífices debaixo dos próprios tetos, em lugar de lhes entregarem o trabalho para executar nas suas casas. A produção de
 ferro no século XVIII era cada vez mais concentrada, e na agricultura definia-se uma tendência semelhante para a concentração da propriedade.
+
 Com a ampla difusão das alterações técnicas de fins dos séculos XVIII e XIX, esses processos que tinham continuado por
 meio dos dois últimos séculos foram bastante acelerados e atingiram particularmente uma fase decisiva. Na indústria têxtil da
 Inglaterra — fim do século XVIII e início do XIX — começaram
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-46
-
-12/01/2011
-
-12:04
-
-Página 46
-
-AFRÂNIO MENDES CATANI
-
 a ser utilizadas as primeiras máquinas de fiar, que substituíram
 o trabalho artesanal característico do período anterior. Comparado ao que se tinha anteriormente alcançado, o tempo de
 desenvolvimento tornou-se extremamente rápido.
+
 Todavia, não se deve exagerar a rapidez com que se verificou
 a transformação em indústria de fábrica, com a sua concentração
 de produção e a relação direta do emprego do capital ao trabalho
-assalariado. Essa transformação foi muito desigual, permanecendo vestígios do período de manufatura ainda na segunda metade do século XX. Contudo, é conveniente salientar que em
+assalariado. Essa transformação foi muito desigual, permanecendo vestígios do período de *manufatura* ainda na segunda metade do século XX. Contudo, é conveniente salientar que em
 meados do século XIX já predominava na indústria britânica o
 tipo de fabrico capitalista moderno do processo de produção.
+
 Um proletariado em rápido crescimento, recrutado em parte
 entre a população excedente do campo (produto de anexações
 da terra e da decadência do artesanato da aldeia) e em parte
 também resultante do aumento natural da população, forneceu
 a força de trabalho a uma indústria em expansão e um campo
 de investimento para uma crescente acumulação de capital.
+
 Às transformações no campo da indústria têxtil sucederiam
 as que tiveram lugar no campo da siderurgia, determinantes da
 criação da grande indústria moderna, a qual exigia como premissa a mobilização e a concentração muito maior de capital
 com a finalidade de desenvolvê-la. A estrada de ferro seria o
 fruto moderno dessa revolução, de maneira que a empresa familiar cedeu lugar à sociedade anônima e acabou desencadeando um processo irreversível no seio do capitalismo: sua
 tendência natural à concentração dos capitais.
-As empresas dispersas do início da era têxtil, mediatizadas
+
+Às empresas dispersas do início da era têxtil, mediatizadas
 por seu caráter familiar, sucederiam as grandes empresas com
 base em sociedades por ações. Ao capital familiar sucederia um
-primeiro indício de capital social. Ao autofinanciamento baseado
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 47
-
-47
-
+primeiro indício de *capital social*. Ao autofinanciamento baseado
 em acumulações privadas preferencialmente agrárias ou comerciais sucederia o império das grandes entidades bancárias. E
 com ele se generalizariam práticas que seriam determinantes da
 fisionomia desse capitalismo característico da segunda metade
 do século XIX, como por exemplo o sistema de créditos.
+
 Na era da estrada de ferro coexiste o caráter competitivo da
 livre empresa — que na economia política liberal possui sua apologética — com as tendências concentracionistas características
-do que, mais adiante, dará lugar ao chamado capitalismo tardio,
+do que, mais adiante, dará lugar ao chamado *capitalismo tardio*,
 marcado pela tendência para oligopólios e monopólios, bem como
 pela debilitação ou até a supressão da livre concorrência.
+
 É, contudo, uma era que apresenta a fase mais criativa do
 capitalismo, uma vez que consagra como valores quase religiosos o ideal de progresso científico e tecnológico, a substituição
 da religião e da filosofia pela ciência, a promoção do inventor a
 figura quase sacerdotal. É a época em que triunfa a ideologia
 de Saint-Simon e de Comte, que creem que se está inaugurando uma nova idade da razão fundada no dirigismo dos industriais ilustrados, de empresários colocados a serviço dos
 princípios nacionais da ciência e da tecnologia.
-O fim do século XIX traz a consolidação dos principais rasgos do chamado capitalismo tardio, a saber: o surgimento de
+
+O fim do século XIX traz a consolidação dos principais rasgos do chamado *capitalismo tardio*, a saber: o surgimento de
 oligopólios e monopólios como formas concentradas que unificam o esforço empresarial e abrandam o caráter competitivo
 próprio do estágio em que o capital ainda se encontrava atomizado e disperso.
+
 Embora o significado que originalmente se atribuiu à palavra
 monopólio fosse o de vendedor exclusivo de qualquer produto, ela
 viria mais tarde a adquirir, em linguagem econômica, o significado
 de poder influenciar de maneira apreciável o fornecimento e também o preço de um artigo. Embora o domínio do mercado seja a
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-48
-
-12/01/2011
-
-12:04
-
-Página 48
-
-AFRÂNIO MENDES CATANI
-
 regra do exercício do monopólio, em si próprio ele não é mais do
 que o meio, o instrumento pelo qual são atingidos os fins últimos
 do monopólio. E, dado que a razão de ser e a força impulsionadora
 do capitalismo é o lucro, o objetivo do monopólio é aumentar o
 próprio lucro, limitando a produção e subindo os preços.
+
 O monopólio não exclui a concorrência em todos os sentidos da palavra: existe ainda concorrência no aspecto de rivalidades e conflitos entre as firmas que usufruem já de monopólio
 em alta escala mas ambicionam aumentá-lo, e também entre
 estas e firmas de menor importância.
-A questão é que a forma de concorrência modifica-se. Em
+
+A questão é que a *forma* de concorrência modifica-se. Em
 lugar da concorrência de preços do gênero do século XIX,
 fazem-se autênticas guerras publicitárias e campanhas de propaganda; tanto os concorrentes como os consumidores são
 condicionados por métodos como os da boicotagem e dos contratos com firmas distribuidoras, sem falar dos acordos para
 preservar a inviolabilidade dos preços da revenda e de eliminação do vendedor que pratique qualquer redução nos preços.
+
 Pode-se verificar, também, a utilização de influência política
 para garantir a atribuição preferencial de contratos ou a proteção
 fiscal contra a incursão no mercado interno. Todavia, pode ocorrer
 a quebra dos preços fixos, quando acontecem as chamadas guerras de preços. Mas tendem a ser interlúdios passageiros entre períodos de tréguas ou acordos. A forma mais completa de monopólio
 é a que se realiza por fusão, consistindo na união de várias firmas rivais numa só, ou quando a maior delas absorve as restantes.
+
 Assim, com os monopólios e oligopólios nasce aquilo que
 autores marxistas do século XX — especialmente Lênin e Rosa
-Luxemburgo — denominam a última fase do capitalismo, o chamado imperialismo. E com ele um neonacionalismo fundado na
+Luxemburgo — denominam *a última fase do capitalismo*, o chamado imperialismo. E com ele um neonacionalismo fundado na
 configuração das nações como um concentrado de interesses
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 49
-
-49
-
 estruturados de caráter capitalista, determinando todo ele os
 enérgicos confrontos armados característicos dessa fase: as
 guerras europeias e mundiais.
+
 Nessa época adquire importância primordial, pela primeira
 vez, a expansão de novos ramos industriais — por exemplo, a
 indústria química — determinantes de uma daquelas características que definiriam o capitalismo atual, ou seja, a substituição dos processos praticamente espontâneos de inversão,
-próprios da idade heroica, por um sistema codificado e controlado de descobrimentos e aplicações tecnológicas: a ciência destrona sistematicamente a perícia do mundo da grande indústria.
+próprios da *idade heroica*, por um sistema codificado e controlado de descobrimentos e aplicações tecnológicas: a ciência destrona sistematicamente a *perícia* do mundo da grande indústria.
+
 Josep María Figueras pondera que essa tendência torna-se
 mais aguda na época que se segue à Segunda Guerra Mundial,
 a qual se encontra determinada por uma nova modalidade de
 tecnologia, porém, sobretudo, por um novo “espírito” no enfoque da tecnologia. Com efeito, parece que já não havia mais
 lugar para os inventores espontâneos do tipo de Edison, capaz
 de lançar vários tipos de patentes a partir de um tecnicismo próprio de prestidigitador.
+
 O processo de invenção implica uma prévia educação especializada que lança ao primeiro plano o papel das universidades. Observa-se uma estreita aliança entre ciência, tecnologia
 e indústria, aliança esta precipitada e acelerada pela colaboração, característica da economia de guerra, entre cientistas e militares. Neste sentido é paradigmático o emprego dos últimos
 descobrimentos da física — especialmente os relacionados com
 a física nuclear — pelo Departamento de Guerra norte-americano, por exemplo.
+
 Pode-se afirmar que a principal inovação da tecnologia nesta
 forma atual de capitalismo localiza-se no campo da eletrônica e da
 informática, por meio da criação dos computadores. Se a máquina
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-50
-
-12/01/2011
-
-12:04
-
-Página 50
-
-AFRÂNIO MENDES CATANI
-
 substituía a força humana, o computador substitui as operações
 mais fatigantes e difíceis de cálculo cerebral, chegando a elaborar,
 com autêntico virtuosismo, “decisões”derivadas das “ordens”que
 a máquina-cérebro recebe.
-É evidente que essa revolução técnico-científica implica
+
+É evidente que essa *revolução técnico-científica* implica
 uma nova fase do capitalismo que conduz até níveis insuspeitos
 a tendência para a sua própria concentração. O capitalismo
 atual é um capitalismo de empresas industriais gigantescas que
 lançam seus tentáculos por toda a face da Terra, aparecendo
-como um espectro multinacional onipresente e disperso.
-II
+como um espectro *multinacional* onipresente e disperso.
+
+## II
 
 Essa visão de mundo que se acabou de expor pretendia endossar a ideia segundo a qual o desenvolvimento capitalista tem o caráter de um desenvolvimento em contínuo progresso e expansão.
 Pretendia-se, por meio desse sistema econômico capitalista, alcançar a riqueza das nações e a felicidade geral. Tal era
