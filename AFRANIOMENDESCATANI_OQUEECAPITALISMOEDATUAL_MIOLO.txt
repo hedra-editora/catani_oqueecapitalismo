@@ -1,4 +1,3 @@
-
 Afrânio Mendes Catani
 
 # O QUE É CAPITALISMO
@@ -328,59 +327,40 @@ para a sua produção*; é este o padrão que determina a quantidade de valor da
 Após estudar a natureza dupla da mercadoria — os seus
 valores de uso e de troca — e verificar que a quantidade de
 valor é determinada pela quantidade de tempo de trabalho
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-12:04
-
-O que é capitalismo
-
-Página 21
-
-21
-
 socialmente necessário para a produção de determinada mercadoria, Marx entrega-se à tarefa de investigar a origem da
-forma dinheiro do valor, estudando o processo histórico do desenvolvimento da troca. Começa pelos atos de troca particulares e fortuitos forma simples, particular ou acidental do valor:
+forma dinheiro do valor, estudando o *processo histórico* do desenvolvimento da troca. Começa pelos atos de troca particulares e fortuitos *forma simples, particular ou acidental do valor*:
 uma quantidade determinada de uma mercadoria é trocada por
 uma quantidade determinada de outra mercadoria), para passar
 à forma geral do valor, quando várias mercadorias diferentes
 são trocadas por uma só mercadoria determinada, finalizando
 pela forma dinheiro do valor, em que o ouro aparece como essa
 mercadoria determinada, como o equivalente geral.
-Pode-se afirmar, para o caso da forma simples ou elementar
-do valor, que duas mercadorias que são comparadas manifestam valores de uso diferentes e valores iguais. Supondo-se a seguinte equação de troca:
+
+Pode-se afirmar, para o caso da *forma simples* ou *elementar
+do valor*, que duas mercadorias que são comparadas manifestam valores de uso diferentes e valores iguais. Supondo-se a seguinte equação de troca:
+
+
 2 mesas = 1 casaco (forma elementar do valor),
 
-tem-se que o valor de uso casaco representa o valor de 2 mesas,
+
+tem-se que o *valor de uso* casaco representa o *valor* de 2 mesas,
 e que, portanto, duas mesas valem um casaco. A mercadoria
 que representa o valor da outra — o casaco, neste caso —
-chama-se equivalente. Neste exemplo, o casaco é o equivalente
+chama-se *equivalente*. Neste exemplo, o casaco é o equivalente
 das mesas, isto é, além de possuir um valor de uso (como peça
 para o vestuário), serve também de equivalente.
-O Guia para a leitura do Capital, obra coletiva da Universidade de Berlim, explicita melhor o que foi dito sobre a forma
+
+O *Guia para a leitura do Capital*, obra coletiva da Universidade de Berlim, explicita melhor o que foi dito sobre a forma
 elementar do valor com as seguintes palavras: “O alfaiate produziu um equivalente, isto é, sobretudo valor, porque o casaco
 não tem valor de uso para ele; uma vez que é produtor de mercadorias e produz exclusivamente para o mercado, o alfaiate só
 pode utilizar o casaco como meio de troca.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-22
-
-12/01/2011
-
-12:04
-
-Página 22
-
-AFRÂNIO MENDES CATANI
 
 O alfaiate produz uma mercadoria equivalente para trocar
 pelas mesas de que necessita. Por conseguinte, sempre que as
 pessoas produzem para a troca, produzem equivalentes, isto é,
 meros valores...”. Mas esse exemplo apresenta uma dificuldade: ambos os produtores de mercadorias, o marceneiro e o
-alfaiate, trocam as suas mercadorias diretamente. Esse método
+alfaiate, trocam as suas mercadorias *diretamente*. Esse método
 só funciona desde que as mesas tenham valor de uso para o alfaiate e o casaco tenha valor de uso para o marceneiro.
 Assim, a troca realiza-se apenas porque ambos os produtores podem satisfazer as suas necessidades específicas com o
 valor de uso produzido precisamente pela outra parte — ou seja,
@@ -388,113 +368,112 @@ isto se dá por um puro acaso. Todavia, o marceneiro, como qualquer outro homem,
 precisa de mais coisas além do simples casaco. Suponha-se então
 que com suas duas mesas pudesse adquirir também 500 quilos
 de batatas, ou três pares de sapatos, ou cinco garrafas de aguardente, ou 20 metros de tecido de algodão, ou 10 gramas de ouro:
+
+
 1 casaco ou
+
 500 quilos de batata ou
-3 pares de sapatos ou
-2 mesas = 5 garrafas de aguardente ou
-20 metros de algodão ou
+
+3 pares de sapatos 
+
+2 mesas ou 					= 5 garrafas de aguardente
+
+20 metros de algodão 
+
 10 gramas de ouro
+
 (forma desenvolvida do valor)
+
 
 Nesse caso, as mesas teriam tantos equivalentes possíveis
 quantas mercadorias o marceneiro pudesse escolher. No entanto, o marceneiro só poderia trocar as suas cadeiras se os outros produtores — neste caso o alfaiate, o agricultor, o sapateiro,
 o destilador, o tecelão ou o pesquisador de ouro — quisessem
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-12:04
-
-O que é capitalismo
-
-Página 23
-
-23
-
-adquirir mesas. Por outro lado, para o pesquisador de ouro isso
+adquirir mesas. Por outro lado, para o pesquisador de ouro, isso
 significaria que ele só poderia adquirir mesas, casacos, batatas,
 sapatos, aguardente ou tecidos de algodão, caso o marceneiro,
 o alfaiate, o agricultor, o sapateiro, o destilador ou o tecelão desejassem 10 gramas de ouro:
+
+
 2 mesas ou
+
 1 casaco ou
-10 gramas 500 quilos de batatas ou
-de ouro = 3 pares de sapatos ou
+
+10 gramas de ouro ou 
+
+3 pares de sapatos ou 			= 500 quilos de batatas
+
 5 garrafas de aguardente ou
+
 20 metros de algodão
+
 (forma desenvolvida do valor)
 
-Nessa fórmula nenhuma das mercadorias constitui um
+
+Nessa fórmula, nenhuma das mercadorias constitui um
 valor de uso para os seus proprietários, mas aparece como valor
 de uso para aqueles que não são seus proprietários. Entretanto,
 se um marceneiro trocar as suas mesas por muitas outras mercadorias, representando assim os seus valores por um certo número de outros valores de uso, todos os outros produtores de
 mercadorias poderão também permutar os bens de que dispõem por mesas e representar os valores das suas mercadorias
 numa única e terceira mercadoria, nomeadamente em mesas:
+
 1 casaco ou
+
 500 quilos de batatas ou
+
 3 pares de sapatos ou
-5 garrafas de aguardente ou = 2 mesas
+
+5 garrafas de aguardente ou 		= 2 mesas
+
 20 metros de algodão ou
+
 10 gramas de ouro
+
 (forma geral do valor)
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-24
-
-12/01/2011
-
-12:04
-
-Página 24
-
-AFRÂNIO MENDES CATANI
 
 ou:
 
+
 2 mesas ou
+
 1 casaco ou
+
 500 quilos de batata ou
-3 pares de sapatos ou = 10 gramas
-5 garrafas de aguardente ou de ouro
+
+3 pares de sapatos ou 			= 10 gramas de ouro
+
+5 garrafas de aguardente ou
+
 20 metros de algodão
+
 (forma geral do valor)
 
+
 No exemplo que se está explorando, as mesas (ou o ouro) representam agora os valores de todas as outras mercadorias. Estas
-exprimem os seus valores coletivamente numa mercadoria separada que se torna assim o equivalente geral ou comum para todas
-as outras mercadorias. Esta mercadoria é o dinheiro (ouro). Antes
+exprimem os seus valores coletivamente numa mercadoria separada que se torna assim o *equivalente geral* ou comum para *todas*
+as outras mercadorias. Esta mercadoria é o *dinheiro* (ouro). Antes
 de desempenhar realmente o papel de dinheiro, uma mercadoria
 tem que ser socialmente reconhecida como mercadoria-dinheiro.
-É dinheiro a partir do momento em que é a única mercadoria na
+É dinheiro a partir do momento em que é a *única* mercadoria na
 sociedade que funciona como equivalente geral.
-Sobre que mercadoria recairá a função do dinheiro é coisa que
+
+Sobre que mercadoria recairá a função do dinheiro é *coisa* que
 dependerá da forma como os produtores habitualmente exprimem
 os valores dos seus produtos, quer dizer, dependerá de ser o gado,
 as conchas, as peles, os cigarros, um metal precioso ou o peixe que
-exprimam o valor. Aquilo a que se chama prática comum é um processo que — segundo Marx — desenvolve-se a partir da prática
+exprimam o valor. Aquilo a que se chama *prática comum* é um processo que — segundo Marx — desenvolve-se a partir da prática
 diária, independente do planejamento consciente e da consciência dos produtores isolados. Consequentemente, é equivocada a
 opinião segundo a qual o dinheiro foi conscientemente inventado
 pelos produtores e introduzido como um dispositivo técnico destinado a fazer frente às dificuldades do processo de troca.
-Segundo o Guia para a leitura do Capital, “historicamente,
-foi o ouro que se tornou a mercadoria-dinheiro na sociedade
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-12:04
-
-O que é capitalismo
-
-Página 25
-
-25
-
+Segundo o *Guia para a leitura do Capital*, “historicamente,
+foi o *ouro* que se tornou a mercadoria-dinheiro na sociedade
 burguesa; para o produtor de ouro é também mercadoria específica o que ele produz. Assim, o ouro tem um papel duplo: é um
 metal precioso que serve para fazer artigos de joalheria, para
 confeccionar dentes postiços etc., e é o equivalente geral, o
 meio de troca geral”.
-II
+
+# II
 
 Embora o dinheiro seja apenas uma mercadoria especial, é
 uma mercadoria com uma função definida que se desenvolve
@@ -504,77 +483,62 @@ por dinheiro. A troca, consequentemente, cinde-se em duas
 partes: a transformação da mercadoria em dinheiro (venda) e
 do dinheiro em mercadoria (compra). Assim, o dinheiro é o intermediário da troca de mercadorias, servindo como meio de
 circulação:
+
+
 Mercadoria (M) — Dinheiro (D) — Mercadoria (M)
+
 M-D-M
 
+
 Nesse caso, cada uma das partes já não tem, de modo necessário, que consumir mutuamente as mercadorias da outra
-para que a troca prossiga: o possuidor de mercadorias (A) procura
-alguém (B) que deseje a sua mercadoria. B tem que ter dinheiro;
-A receberá o dinheiro de B e procurará uma terceira pessoa (C)
-ou várias outras a quem tentará comprar mercadorias com o
+para que a troca prossiga: o possuidor de mercadorias *(A)* procura
+alguém *(B)* que deseje a sua mercadoria. *B* tem que ter dinheiro;
+*A* receberá o dinheiro de *B* e procurará uma terceira pessoa *(C)*
+ou várias outras de quem tentará comprar mercadorias com o
 dinheiro recebido. A compra e a venda já não ocorrem ao mesmo
 tempo e, sendo assim, a troca torna-se mais móvel e maleável,
 tanto mais quanto se podem fazer várias compras simultaneamente com o dinheiro.
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-26
-
-12/01/2011
-
-12:04
-
-Página 26
-
-AFRÂNIO MENDES CATANI
 
 Essa circulação simples de mercadorias (M — D — M) é
 um processo completo em si, pois por meio dele um produtor
 troca a sua mercadoria por dinheiro, que já não tem valor de
 uso para ele, e com esse dinheiro compra mercadorias que satisfaçam as suas necessidades, mercadorias essas que para ele
 terão valor de uso.
+
 Todavia, se o dono do dinheiro compra mercadorias e volta
 a vendê-las posteriormente, o processo de troca transformase em D — M/M — D ou, mais simplesmente, em D — M — D.
 Acontece, porém, que esse processo (D — M — D) parece não
 ter sentido, uma vez que no seu final o proprietário de dinheiro
 não tem um centavo a mais do que no principio, nem recebe em
 troca um valor de uso — como ocorre no caso anterior.
+
 Ainda mais: no processo D — M — D, tal proprietário
 expõe o seu dinheiro aos riscos do mercado, sem ter muitas garantias de que conseguirá voltar a vender as mercadorias que
 comprou ao mesmo preço. Sobre tal processo (D — M — D) de
-circulação, Marx escreve em O Capital: “o dinheiro que circula
-desta (...) maneira transforma-se assim em capital, torna-se capital”. Assim antes de prosseguirmos, torna-se necessária a
+circulação, Marx escreve em *O Capital*: “o dinheiro que circula
+desta (...) maneira transforma-se assim em capital, torna-se capital”. Assim, antes de prosseguirmos, torna-se necessária a
 análise das diferenças existentes entre as características que
 lhes são comuns.
+
 Pode-se afirmar que é comum às duas circulações o fato de
-consistirem numa compra e numa venda e de, além disso, na
+consistirem em uma compra e em uma venda e de, além disso, na
 permuta M — D e D — M, os valores trocados serem iguais.
 A circulação M — D — M caracteriza-se pelo fato de haver valores de uso com diferentes qualidades no princípio e no fim do
 processo, sendo o objetivo da troca o consumo de valores de
 uso.
+
 Sob esse ponto de vista, a circulação D — M — D começa
 e termina pelo dinheiro, o próprio valor de troca. Contudo,
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 27
-
-27
-
 como aqui só o dinheiro interessa, esse tipo de troca só fará sentido se o possuidor de dinheiro receber no fim mais dinheiro do
 que aquele com que entrou inicialmente.
+
 Em consequência, a circulação D — M — D é um movimento com base no dinheiro — e significa não D — M — D,
-mas D — M — D, querendo-se com D exprimir a quantidade
+mas D — M — D', querendo-se com D' exprimir a quantidade
 final de dinheiro. E esta quantidade de dinheiro deverá ser maior
 do que a quantidade de dinheiro inicial (D). “É a este acréscimo
 do valor primitivo do dinheiro posto em circulação que Marx
-chama mais-valia”, conforme escreve Lênin. Só por este processo de expansão do valor, de valorização, o dinheiro se transforma realmente em capital.
+chama *mais-valia*”, conforme escreve Lênin. *Só por este processo de expansão do valor, de valorização, o dinheiro se transforma realmente em capital*.
+
 Esse processo de expansão não tem limites, uma vez que,
 enquanto o fim da circulação M — D — M é obter o valor de
 uso, isto é, satisfazer uma necessidade de determinada qualidade e quantidade limitada, o princípio e o fim da circulação D
@@ -582,149 +546,113 @@ uso, isto é, satisfazer uma necessidade de determinada qualidade e quantidade l
 soma de dinheiro tem que ser maior no fim do processo do que
 no princípio e, consequentemente, o processo de expansão do
 capital não conhece limites.
-Segundo Marx, a mais-valia não pode provir da circulação
+
+Segundo Marx, a *mais-valia* não pode provir da circulação
 das mercadorias, porque esta só conhece a troca de equivalentes. Conforme se procurou mostrar páginas atrás, o valor de
 uma mercadoria é determinado pelo tempo de trabalho socialmente necessário para a sua produção, e, assim sendo, no processo de troca não se tem a criação de um valor adicional.
+
 Tampouco a mais-valia poderia provir de um aumento dos
 preços, porque as perdas e os lucros recíprocos dos compradores e dos vendedores tenderiam a equilibrar-se. Para se obter a
 mais-valia, de acordo com Marx, “seria preciso que o possuidor do dinheiro descobrisse no mercado uma mercadoria cujo
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-28
-
-12/01/2011
-
-12:04
-
-Página 28
-
-AFRÂNIO MENDES CATANI
-
 valor de uso fosse dotado da propriedade singular de ser fonte
 de valor”, uma mercadoria cujo processo de consumo fosse, ao
 mesmo tempo, um processo de criação de valor; criação de
-mais-valia. E essa mercadoria existe: é a força de trabalho humana. O seu uso é o trabalho, e o trabalho cria valor.
+mais-valia. E essa mercadoria existe: *é a força de trabalho humana*. O seu uso é o trabalho, e o trabalho cria valor.
+
 No entanto, a força de trabalho dos homens não foi sempre
 mercadoria, nem em todas as épocas nem em todas as relações
-sociais de produção. Como exemplo pode-se citar o caso do artesão: trata-se de um produtor independente, que vende o seu
-produto e não vende a sua força de trabalho, a qual, portanto,
+sociais de produção. Como exemplo, pode-se citar o caso do artesão: trata-se de um produtor *independente*, que vende o seu
+produto e *não vende a sua força de trabalho*, a qual, portanto,
 não é mercadoria. Isto se torna possível porque o artesão é
-dono tanto de seu trabalho como de seus meios de produção,
+dono tanto de seu trabalho como de seus *meios de produção*,
 quer dizer, é dono de seus instrumentos e da matéria-prima que
 vai usar; em consequência, é dono também do produto que o
 seu trabalho produziu.
+
 A expansão capitalista, entretanto, liquidou a maior parte
 dos artesãos, que não puderam concorrer com as fábricas sempre crescentes. Endividavam-se e perdiam os seus meios de
-produção, até que nada lhes restasse para vender, a não ser a
-sua força de trabalho (sua força física, mais o seu cérebro). Sem
-os meios de produção a força de trabalho tem pouca utilidade.
+produção, até que nada lhes restasse para vender, *a não ser a
+sua força de trabalho* (sua força física mais o seu cérebro). Sem
+os meios de produção, a força de trabalho tem pouca utilidade.
 Separada de seus meios de produção, a classe trabalhadora passou a depender, para o seu trabalho, da classe dos capitalistas,
 isto é, da classe dos proprietários dos meios de produção.
-Assim, o trabalhador foi forçado a procurar o capitalista para
-vender-lhe a sua força de trabalho, em troca de um salário.
-O artesão transformou-se em assalariado, passando a vender a
+
+Assim, *o trabalhador foi forçado a procurar o capitalista para
+vender-lhe a sua força de trabalho, em troca de um salário*.
+O *artesão* transformou-se em *assalariado*, passando a vender a
 sua força de trabalho, por dia, por semana ou por mês. Foi o que
 fizeram os artesãos arruinados, e também os camponeses, que
 o capitalismo expulsava e expulsa de suas terras. Surgia desse
 modo a grande massa proletarizada e pobre das cidades, cuja
+*única mercadoria* são os seus músculos e o seu cérebro.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 29
-
-29
-
-única mercadoria são os seus músculos e o seu cérebro.
 No sistema capitalista, portanto, a força de trabalho humana é uma mercadoria. E como todas as coisas tornam-se
 mercadorias ao serem trocadas por produtos de igual valor, a
 força de trabalho torna-se também mercadoria ao ser trocada
 por dinheiro.
+
 O valor de cada mercadoria é determinado pelo tempo de
 trabalho necessário à sua produção e manutenção. No caso da
 força de trabalho, esta não pode ser separada do operário a que
 pertence, sendo que a produção e a manutenção da força de
 trabalho é a produção e subsistência do próprio trabalhador.
+
 Marx é categórico a esse respeito ao afirmar que “o valor da
 força de trabalho é o valor dos meios de subsistência necessários para a manutenção do trabalhador”, ou seja, para que o
 conjunto da classe operária produza a sua força de trabalho é
 necessário que ela esteja e continue viva, isto é, que se alimente, durma, se agasalhe e se reproduza. Sem isso não poderia voltar diariamente aos latifúndios e às fábricas do capital,
 para lá vender a sua força de trabalho.
-Em seu arguto Didatismo e literatura (“Um folheto de Bertha
-Dunkel”) Roberto Schwarz pondera: “... enquanto cresce, estuda e trabalha, o homem consome uma certa quantidade de
-mercadorias, que pode ser medida em tempo de trabalho. Medindo este valor, estaremos medindo, indiretamente, o valor da
-força de trabalho. Casa, comida, roupa e educação, entretanto,
+
+Em seu arguto *Didatismo e literatura* (“Um folheto de Bertha
+Dunkel”), Roberto Schwarz pondera: “... enquanto cresce, estuda e trabalha, o homem consome uma certa quantidade de
+mercadorias, que pode ser medida em tempo de trabalho. *Medindo este valor, estaremos medindo, indiretamente, o valor da
+força de trabalho*. Casa, comida, roupa e educação, entretanto,
 podem ser boas e podem ser ruins. Em regime capitalista, porque
 a oferta de mão de obra tende a ser maior do que a procura, o
 trabalhador é forçado a bastar-se com o mínimo vital, para não
-perder o emprego. De modo que sua casa, comida, roupa e educação serão ruins. Portanto, o valor da força de trabalho é igual
+perder o emprego. De modo que sua casa, comida, roupa e educação serão ruins. *Portanto, o valor da força de trabalho é igual
 ao valor dos meios de subsistência, principalmente gêneros de
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-30
-
-12/01/2011
-
-12:04
-
-Página 30
-
-AFRÂNIO MENDES CATANI
-
-primeira necessidade, indispensáveis à reprodução da classe operária”. E esse valor é pago no salário, que deve dar apenas para o
+primeira necessidade, indispensáveis à reprodução da classe operária”*. E esse valor é pago no salário, que deve dar apenas para o
 estritamente indispensável: a sobrevivência e o mínimo de educação necessários ao futuro trabalhador.
+
 É esse o círculo vicioso do capitalismo, em que o assalariado
 vende a sua força de trabalho para sobreviver, e o capitalista lhe
 compra a força de trabalho para enriquecer. A razão do círculo
-vicioso está na mais-valia, que será mais bem explicitada a partir de agora.
+vicioso está na *mais-valia*, que será mais bem explicitada a partir de agora.
+
 Tendo comprado a mercadoria força de trabalho, o possuidor do dinheiro fica com o direito de a consumir, isto é, de a obrigar a trabalhar durante um dia inteiro. Já se afirmou que o valor
 da força de trabalho é igual ao valor dos meios de subsistência indispensáveis à reprodução da classe operária. Suponha-se que a
 produção desses meios de subsistência, necessários ao trabalhador médio, leve em média 4 horas de trabalho. Suponha-se
 também que o preço de 4 horas de trabalho seja 100 cruzados.
+
 Trabalhando 4 horas por dia (tempo de trabalho “necessário”) o trabalhador produz os seus meios de subsistência, ou um
 produto de igual valor ao de seus meios de subsistência. Entretanto, o operário é obrigado a trabalhar muito mais do que as 4
-horas necessárias. Trabalha, por exemplo, 8 horas por dia, produzindo muito mais do que consome, produzindo um excedente.
+horas necessárias. Trabalha, por exemplo, 8 horas por *dia*, produzindo muito mais do que consome, *produzindo um excedente*.
+
 No exemplo citado, o operário produz durante 4 horas
-(tempo de trabalho suplementar) um “sobreproduto” não retribuído pelo capitalista que constitui a mais-valia. Ou seja, o capitalista consome a força de trabalho fazendo com que ela
+(tempo de trabalho *suplementar*) um “sobreproduto” não retribuído pelo capitalista, que constitui a *mais-valia*. Ou seja, o capitalista consome a força de trabalho fazendo com que ela
 trabalhe e produza durante um dia normal de 8 horas. Todavia,
-o capitalista paga por 4 horas de trabalho, mas recebeu 8. As 4
-horas que não foram pagas, as horas de trabalho excedente, são
-a mais-valia do capitalista. Essa troca desigual, repetida milhares
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 31
-
-31
-
+*o capitalista paga por 4 horas de trabalho, mas recebeu 8*. As 4
+horas que não foram pagas, as horas de *trabalho excedente, são
+a mais-valia do capitalista*. Essa troca desigual, repetida milhares
 de vezes com milhares de operários ao longo dos anos, é a mola
 e a essência desse sistema de exploração.
-Conforme se procurou mostrar anteriormente, o trabalhador não tem o que vender para sobreviver, a não ser a sua força
-de trabalho. Portanto, é forçado pela fome, ou mesmo pela repressão organizada, a concordar com o salário que os patrões
+
+Conforme se procurou mostrar anteriormente, o trabalhador não tem o que vender para sobreviver, a não ser a sua *força
+de trabalho*. Portanto, é forçado pela fome, ou mesmo pela repressão organizada, a concordar com o salário que os patrões
 propõem. No espaço de um dia, de uma semana ou de um mês
 de trabalho, o trabalhador produz muito mais do que o seu salário, e essa diferença — entre o valor do que produz e o valor
-de seu salário —, chamada mais-valia, é apropriada pela classe
-capitalista e é a substância de toda a sua riqueza.
+de seu salário —, chamada *mais-valia*, é apropriada pela classe
+capitalista e é a substância de *toda* a sua riqueza.
+
 Utilizando um exemplo bastante feliz de Roberto Schwarz,
 pode-se afirmar que “assim como um boi produz mais do que
-consome, e enriquece o seu dono, a classe trabalhadora produz
-mais-valia do que consome, e enriquece os proprietários dos
-meios de produção. Desse modo, os trabalhadores são os bois
-do sistema capitalista: consomem apenas uma parte do que
-produzem, a parte necessária para que continuem vivos e trabalhando; a outra parte, a mais-valia, é apropriada pela burguesia, que vive às custas da classe trabalhadora”.
+consome e enriquece o seu dono, a classe trabalhadora produz
+mais-valia do que consome e enriquece os proprietários dos
+meios de produção. Desse modo, *os trabalhadores são os bois
+do sistema capitalista*: consomem apenas uma parte do que
+produzem, a parte necessária para que continuem vivos e trabalhando; a outra parte, a mais-valia, é apropriada pela burguesia, *que vive às custas da classe trabalhadora”*.
+
 Para que se possa aprofundar um pouco mais as considerações realizadas acerca do capitalismo é necessário distinguir, do ponto de vista do processo de produção, duas partes do
 capital: o capital constante e o capital variável. O capitalista investiu o seu capital-dinheiro em meios de produção e força de
 trabalho, dois elementos do processo de trabalho que desempenham papéis diferentes no processo de formação do valor de
