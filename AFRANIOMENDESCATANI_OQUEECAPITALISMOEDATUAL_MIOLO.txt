@@ -2782,12 +2782,14 @@ do programa econômico a ser viabilizado. Entretanto, com a
 morte de Tancredo e a posse de José Sarney, as negociações
 Brasil-FMI mais uma vez entraram em compasso de espera,
 pois o novo governo se recusa a admitir o esquema de monitoramento de sua política econômica interna pelo Fundo.
+
 Desde 1984, o Brasil mantinha um saldo da balança comercial pouco superior a US$ 1 bilhão por mês. Devido à política
 econômica do Plano Cruzado, esse saldo começou a diminuir a
 partir de maio de 1986: em agosto ainda era de US$ 950 milhões, em setembro caiu para US$ 544 milhões e, em outubro,
 tornou-se negativo, permanecendo nessa situação até o fim do
 ano. A tendência ao rápido esgotamento das reservas cambiais
 e as complexas relações com o FMI levaram o governo brasileiro à moratória, iniciada em fevereiro de 1987.
+
 Nos anos imediatamente posteriores, observou-se um
 longo período de incertezas na economia brasileira, em que se
 tentou quase tudo com resultados pouco significativos: choques
@@ -2797,30 +2799,18 @@ indicadores; retomada dos contatos com o FMI propondo alternativas inovadoras de
 redução do déficit público por meio da elevação da carga tributária; abandono dos choques econômicos e ataques ao déficit
 público, considerado o principal causador da elevação dos
 preços; privatização de várias empresas estatais; tentativa do
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-122
-
-12/01/2011
-
-12:04
-
-Página 122
-
-AFRÂNIO MENDES CATANI
-
 estabelecimento de um pacto social, reunindo representantes
 do governo, dos empresários e dos trabalhadores.
+
 Como a maioria dessas tentativas malogrou, a convivência incômoda com uma alta crescente dos níveis de preços tornou-se
 realidade, o dragão da inflação venceu a parada com muitos corpos de vantagem e o PIB quase a zero nos rondou constantemente.
+
 Além disso, outro indicador seguro de que as coisas não andavam bem por aqui, e de que a dívida externa dificilmente seria
 paga, pode ser observado pelo comportamento dos papéis da
 dívida externa brasileira no mercado internacional: cotações
 próximas de 30 centavos por dólar não poderiam ser consideradas anormais.
 
-Capitalismo no Brasil recente — as décadas
-de 1990 e 2000
+## Capitalismo no Brasil recente — as décadas de 1990 e 2000
 
 Na esteira da derrocada do regime militar, a década de 1980
 foi marcada, por um lado, por sucessivos planos econômicos que
@@ -2829,36 +2819,27 @@ crescimento e a diminuição da inflação. Por outro, essa década
 também assistiu ao nascimento de novas formas de organização
 política dos trabalhadores e ao fortalecimento do movimento
 sindical crítico à estrutura oficial atrelada ao Estado.
+
 Ao fim dos anos 1980, embora a Constituição de 1988 tenha
 garantido um importante conjunto de direitos aos trabalhadores
 e preservado o monopólio estatal em setores-chave da economia, o que se seguiu, a partir da década de 1990, foi um processo
 gradual de implementação das políticas neoliberais no país.
+
 A eleição de Fernando Collor, em 1989, deu início a um
 amplo programa de reformas do Estado e da economia, que foi
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 123
-
-123
-
 intensificado por Fernando Henrique Cardoso (FHC), de 1995
 a 2002, e mantido, em sua essência, por Luiz Inácio Lula da
 Silva, de 2003 a 2010. Para D. Saes, o neoliberalismo criou um
 projeto hegemônico capaz de rearticular o bloco no poder que,
 por sua vez, buscava alternativas à crise do Estado desenvolvimentista.
+
 Como indicado anteriormente, as políticas neoliberais baseiam-se em três ordens principais: a abertura comercial e financeira, as privatizações e as novas regulamentações jurídicas
 e econômicas, a partir de planos de estabilização baseados em
 juros altos. Dado o contexto de crise e endividamento da economia, as reformas surgiam como obrigações que os governos
 deveriam tomar como forma de se alinhar aos ditames da nova
 ordem neoliberal internacional e, assim, estarem aptos a receber
 capitais externos e empréstimos e financiamentos de instituições financeiras mundiais, como o FMI.
+
 Já no governo Collor, medidas importantes foram tomadas nesse sentido. Uma delas foi a abertura comercial promovida pela redução ou eliminação de barreiras alfandegárias e
 diminuição de tarifas de importação que protegiam a produção
 interna. A outra foi a criação do Programa Nacional de Desestatização (PND), que privatizou empresas estatais dos setores de siderurgia (como a Usiminas), petroquímico e de
@@ -2867,23 +2848,12 @@ de servidores públicos, ao fechar 22 entidades públicas e afastar 160 mil trab
 levavam a marca de políticas intervencionistas, sendo caracterizados tanto pela desindexação da economia como pelo
 congelamento de preços e salários e confisco de ativos financeiros.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-124
-
-12/01/2011
-
-12:04
-
-Página 124
-
-AFRÂNIO MENDES CATANI
-
-Collor renunciou após sofrer um processo de impeachment
+Collor renunciou após sofrer um processo de *impeachment*
 devido a denúncias de corrupção e improbidade administrativa.
 As consequências das políticas tomadas pelo seu governo, entre
 1990 e 1992, consistiram em recessão econômica, crescimento
 do desemprego e desvalorização dos salários. Segundo os estudos de Filgueiras e Gonçalves, enquanto o PIB mundial nesse período cresceu 2,3%, o PIB brasileiro apresentou retração de 1,4%.
+
 A rápida abertura comercial e financeira tornou a economia brasileira vulnerável aos capitais estrangeiros e desestruturou a produção interna, que sentiu fortemente a competição
 com as mercadorias e serviços externos. Para D. Martuscelli,
 ainda que em certo momento da crise política as frações da
@@ -2892,8 +2862,10 @@ regime político inaugurado pela Constituição de 1988, mas uma
 crise de governo provocada pelo modo específico de acordo
 com o qual o governo Collor vinha implementando a política
 neoliberal.
+
 As análises de D. Saes e Boito Jr. ajudam a entender esse
 processo, ao afirmarem que as três ordens da política neoliberal afetam de forma distinta as diferentes frações da classe dominante, bem como as classes dominadas.
+
 No caso da classe dominante, se os interesses de todas as
 frações são contemplados pela redução dos custos da força de
 trabalho causado pela desregulamentação jurídica e econômica,
@@ -2902,59 +2874,40 @@ como o industrial interno, são afetados pela abertura comercial
 e financeira e pela política de juros altos que, ao tentar diminuir
 a inflação, influenciam negativamente no crescimento econômico real.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 125
-
-125
-
 A fração que mais tem sido beneficiada pelo conjunto dessas políticas é a do capital financeiro. Contudo, esses possíveis
 conflitos internos não abalam o consenso mínimo de todas as
 frações da classe dominante em relação aos benefícios políticos
 e econômicos do neoliberalismo.
+
 Assim, após certa inflexão promovida pelo governo Itamar
 Franco — que assumiu a presidência após o afastamento de Collor e, embora tenha indexado a economia, privatizou importantes empresas (como a Companhia Siderúrgica Nacional —
 CSN) —, o projeto neoliberal retorna mais consistente e estruturado com FHC que, ainda enquanto ministro da economia de
 Itamar, lança o Plano Real e se elege presidente da República no
 fim de 1994. A famosa frase de FHC em um discurso ainda no
 Senado — “é preciso por fim à era Vargas” — tornou-se emblemática para expressar as mudanças que estavam em jogo.
+
 Embora não atendesse a algumas recomendações do FMI,
 o Plano Real tinha por objetivo, sobretudo, conquistar a estabilização econômica a partir de uma política monetária restritiva,
 cujo objetivo principal era diminuir drasticamente a inflação no
 país.
+
 A partir das explicações de L. Belluzzo e J. Almeida, é possível afirmar que, para criar a confiança necessária no mercado
 externo, o plano seguiu à sua maneira a linha traçada pelo que
 ficou conhecido como “Consenso de Washington”, segundo o
 qual as economias nacionais deveriam estabilizar os preços para
 estimular investimentos privados, promover a abertura comercial para aumentar a concorrência, privatizar e promover o investimento externo para “modernizar” a produção e permitir a
 liberalização cambial.
+
 No início, o mecanismo que impedia a elevação dos preços,
 a chamada “âncora”, se efetivou principalmente a partir do
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-126
-
-12/01/2011
-
-12:04
-
-Página 126
-
-AFRÂNIO MENDES CATANI
-
 câmbio, que mantinha o real próximo ao dólar. Depois da crise
 de 1999, foram principalmente a âncora monetária (taxa de
 juros) e a fiscal (superávit primário) que estabilizaram os preços.
+
 Vários economistas e pesquisadores ressaltam que a diferença entre o êxito do Plano Real no combate à inflação e o fracasso dos planos da década de 1980 se deve principalmente a
 condições históricas e políticas específicas de meados dos anos
 de 1990, tanto no Brasil como no exterior.
+
 Internamente, o país havia renegociado a dívida externa e
 apresentava dívida interna reduzida devido aos confiscos do
 Plano Collor. Mas, haja vista a vulnerabilidade da economia brasileira frente às condições internacionais, o elemento decisivo
@@ -2962,35 +2915,27 @@ foi mesmo a abundância de recursos financeiros externos. Como
 em boa parte do mundo as taxas de juros eram reduzidas, o país
 encontrava facilmente capitais interessados nos papéis emitidos
 pelo governo a juros astronômicos.
+
 As contrapartidas que o governo FHC deveria tomar para
 que a moeda nacional fosse sustentada se efetivaram já nas primeiras ações de seu governo, iniciado em 1995, com várias propostas de Emendas Constitucionais. Desde então, até o fim do
 primeiro mandato em 1998, os monopólios do Estado (como
 das telecomunicações, petróleo, recursos naturais) foram quebrados.
+
 A abertura comercial e financeira seguiu a passos largos.
 Eliminou-se a diferença entre empresas brasileiras de capital
 nacional e empresas brasileiras de capital estrangeiro, ambas reconhecidas, indistintamente, como empresas brasileiras. O “enxugamento” da máquina pública ganhou intensidade e as
 primeiras medidas de reformas da previdência e trabalhista passaram a ser discutidas e, gradualmente, implementadas.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 127
-
-127
-
 Importantes empresas estatais e bancos foram privatizados, como as empresas de telefonia do Sistema Telebrás e a Vale
 do Rio Doce. De 1991 a 2002, 165 empresas foram privatizadas
 no país, pertencentes à União, Estados e municípios, sendo arrecadados mais de US$ 100 bilhões. O período de maior intensidade ocorreu entre 1997 e 1999, durante o primeiro mandato
 de FHC, no qual também se iniciou a venda de instituições financeiras, 48 somente nesses três anos.
+
 Um balanço do processo pode ser encontrado nos trabalhos de A. Biondi, nos quais o autor destaca que o montante
 arrecadado deve ser relativizado, tendo em vista que, em muitos casos, grandes investimentos do Estado eram feitos antes
 das vendas e as empresas poderiam valer muito mais do que era
 conseguido nos leilões.
+
 A esse quadro é fundamental acrescentar as profundas
 modificações pelas quais as empresas situadas no país vinham
 passando. Segundo R. Antunes, foi na década de 1990 que o
@@ -2999,23 +2944,12 @@ forma mais intensa e generalizada. Junto à aplicação de novas
 tecnologias, aos poucos a reorganização do trabalho aproximou-se do ideário da “acumulação flexível”, com a intensificação da produção enxuta, da redução de estoques, redução
 do número de trabalhadores estáveis e aumento indiscriminado
 de terceirizações.
+
 O processo deflagrou uma descentralização da produção
 dentro do país, com as empresas em busca de custos reduzidos
 de força de trabalho. A junção do processo de reestruturação
 produtiva com a execução das reformas neoliberais atingiu duramente os movimentos sindicais que, em sua maioria, passaram a ações menos conflitivas e de diálogo e negociação com o
 patronato.
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-128
-
-12/01/2011
-
-12:04
-
-Página 128
-
-AFRÂNIO MENDES CATANI
 
 Outra importante consequência do conjunto de medidas colocadas em prática nos oito anos do governo FHC foi a mudança
 do financiamento da economia brasileira, que originou um decréscimo relativo da dívida externa e a explosão da dívida interna. Essa lógica se deu da seguinte maneira: como o governo,
@@ -3023,6 +2957,7 @@ nos primeiros anos do Plano Real, insistiu na valorização do real
 ante o dólar (“âncora cambial”), as importações crescerem em
 níveis muito superiores às exportações, o que gerou déficits na
 balança comercial e nas transações correntes como um todo.
+
 Assim, o governo precisou equilibrar as contas e fez isso
 por meio do lançamento de títulos da dívida pública no mercado
 financeiro com os juros elevados. Mas esse tipo de troca de financiamento tem um detalhe: a dívida interna tem prazos menores e taxas mais elevadas que a externa. Embora a dívida
@@ -3030,7 +2965,10 @@ possa ser usada para investimentos reais, a remuneração exorbitante pelo gover
 financeira tem trazido enormes malefícios ao país, pois as economias que precisam ser feitas para pagar juros e encargos da
 dívida interna comprometem os gastos públicos e afetam, por
 exemplo, os serviços de educação e saúde.
-Dívida Líquida do Setor Público (governos FHC I e II + Lula I)
+
+### Dívida Líquida do Setor Público (governos FHC I e II + Lula I)
+
+
 Ano
 1994
 1998
@@ -3076,17 +3014,6 @@ R$ bilhões % PIB
 13
 -2,7
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 129
-
-129
 
 Em que pese o controle da inflação, o resultado dessas políticas ao longo dos mandatos de FHC foram o aumento do desemprego e a inibição do crescimento econômico. A média do
 crescimento do PIB durante seus oito anos de governo foi de
@@ -3095,35 +3022,27 @@ de trabalho. A abertura comercial e o aumento das importações fragilizaram eno
 queda significativa do peso da indústria no PIB — se, em 1986,
 representava 32,1% do PIB, em 1998 esse índice era de 19,7%,
 o que gerou impactos negativos na balança comercial, deficitária de 1995 a 2000.
+
 Essa tendência somente foi alterada a partir de 2001, devido
 ao aumento expressivo das exportações de produtos primários
 ou semimanufaturados, de baixa intensidade tecnológica. São
 vários os pesquisadores que têm alertado sobre uma tendência
 de reprimarização das exportações e possível desindustrialização do país.
+
 Foi nesse contexto, de desacordo popular com as consequências econômicas dessas políticas, que Lula foi eleito. Contudo, não houve, ao longo de seus dois mandatos (2003-2010),
 uma mudança estrutural das políticas macroeconômicas do
-país, já que se mantiveram inalterados os fundamentos das medidas da década anterior para contenção da inflação e “estabilização” da economia.
+país, já que se mantiveram inalterados os fundamentos das medidas da década anterior para contenção da 
+inflação e “estabilização” da economia.
+
 Desde as eleições de 2002, diversas garantias foram dadas
 ao mercado e ao capital financeiro, reunidas desde a “Carta ao
 povo brasileiro”, de que não haveria mudança da linha econômica: mantinham-se, então, o superávit primário, juros altos e
 câmbio flutuante. Em outras palavras, não haveria riscos de que
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-130
-
-12/01/2011
-
-12:04
-
-Página 130
-
-AFRÂNIO MENDES CATANI
-
 a dívida não pudesse ser paga, a despeito do ônus que ela traz
 ao conjunto da população. Na arena da política institucional,
 sua base de sustentação foi boa parte das mesmas lideranças
 conservadoras de outros governos.
+
 A dívida interna continua a crescer, embora haja variação
 de seu montante em relação ao PIB. Hoje, como o país tem reservas em moeda estrangeira maiores do que as dívidas contraídas nessas moedas, a dívida externa deixou de ser um
 “problema”, tal como nos anos de 1980. Entretanto, segundo
@@ -3133,7 +3052,10 @@ superávits primários acumularam R$ 489,8 bilhões, mas a dívida continua a au
 a dívida bruta (total das dívidas federais, estaduais, municipais
 e operações do Banco Central) chegou a quase R$ 2 trilhões —
 62,9% do PIB, segundo números do BC.
-Dívida Líquida do Setor Público (governo Lula II)
+
+### Dívida Líquida do Setor Público (governo Lula II)
+
+
 Ano
 
 2007
@@ -3152,36 +3074,27 @@ Dívida
 % PIB
 45,1
 38,4
-42,8
+42,
+
 
 A venda das grandes empresas estatais cessou no governo
 Lula, o que não caracterizou, contudo, um refluxo da lógica
 neoliberal, já que contrarreformas foram levadas adiante,
 como a da previdência. O fato de as exportações de produtos
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 131
-
-131
-
 primários salvarem as contas externas em quase todos esses
 anos, o que possibilitou superávit das transações correntes até
 2007, fez com que o agronegócio fosse incentivado no país, limitando duramente o atendimento a reivindicações de movimentos sociais que apoiam o governo, como as do movimento
 dos sem-terra.
+
 Sem modificar a base econômica por conta dos compromissos com o capital financeiro, restou ao governo ampliar políticas sociais compensatórias, ainda na esteira da lógica liberal
 de “focalização” de recursos, em detrimento da prestação universal desses serviços. O programa mais expressivo, nesse sentido, foi o Bolsa-Família.
+
 Mas o significado do governo Lula tem sido alvo de muitas análises ainda em andamento, principalmente por conta de
 certas mudanças que vieram a ficar mais visíveis no seu segundo mandato. Após a chamada “crise do mensalão”, o governo apostou em algumas medidas para reativar o mercado
 interno e desenvolver de forma mais acentuada a infraestrutura do país. São exemplos disso a liberação maior de recursos
 para o crédito consignado (iniciado em 2003), o Programa da
 Aceleração do Crescimento (PAC) e aumentos reais do salário mínimo.
+
 Esses, dentre outros fatores, possibilitaram um saída
 menos conturbada da crise internacional que se abateu a partir de 2008 e propiciaram uma melhora de índices sociais e econômicos. A geração de empregos foi maior do que na era FHC
 e, entre 2003 e 2009, mais de 30 milhões de pessoas elevaram
@@ -3190,21 +3103,10 @@ pesquisa chamam de “classe C” — pessoas cuja renda familiar
 varia de 2 a 8 salários mínimos, aproximadamente, embora haja
 muitas controvérsias sobre tais critérios.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-132
-
-12/01/2011
-
-12:04
-
-Página 132
-
-AFRÂNIO MENDES CATANI
-
 O debate, certamente, é controverso e seria necessária
 uma discussão bastante detalhada sobre as mudanças e permanências do governo em cada setor do país, como saúde, educação, ciência e tecnologia, acesso à terra e à moradia, lutas por
 ações afirmativas, direitos das mulheres etc.
+
 Por um lado, algumas pesquisas indicam que se desenha
 uma espécie de neodesenvolvimentismo, em que se tenta
 construir certo consenso entre empresários nacionais e os trabalhadores que estão organizados nos sindicatos atrelados ao
@@ -3213,30 +3115,20 @@ governo. Nos últimos anos, vê-se que o governo Lula, especialmente por meio do
 menos dependente. A história e as características pessoais do
 presidente são usadas como forma de criar um sentimento de
 “concertação” social.
+
 Por outro lado, esse formato é distinto do modelo desenvolvimentista tradicional, porque se pauta mais no mercado externo, na produção de bens primários e seu
 crescimento é limitado pelas imposições da lógica financeira.
 Ademais, é preciso ressaltar que importantes reivindicações
 dos trabalhadores são rebaixadas nesse contexto de “negociação” geral. Algumas medidas tomadas tiveram efeitos positivos bastante concretos para a vida da população como
 um todo, o que não significa, necessariamente, mudança estrutural do modelo herdado de governos neoliberais predecessores.
+
 Assim, para vários autores, essas medidas não alteram o
 teor central do governo Lula, de manutenção, em patamares
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 133
-
-133
-
 diferenciados, da ofensiva neoliberal orientada pelos compromissos com os grandes grupos monopolistas e o capital
 financeiro. Mesmo o apoio a grupos nacionais revelaria um
 caráter privatista velado, pois reforça a concentração de
 mercado.
+
 Nessa perspectiva, um exemplo pode ser dado com a questão da desigualdade. A elevação da renda dos mais pobres fez
 com que se constatasse queda da desigualdade social, medida
 pelo coeficiente de Gini. Pelos dados da PNAD do IBGE, em
@@ -3247,6 +3139,7 @@ do capital tenham aumentado em níveis muito mais elevados
 do que a renda dos trabalhadores em geral, fazendo com que,
 no fim das contas, a desigualdade possa ter se elevado nesse
 mesmo período.
+
 Outro aspecto fundamental é a imensa precariedade que
 ainda existe para grande parte da força de trabalho brasileira,
 que ou está pressionada pelas consequências da flexibilização (terceirização, subcontratação, contratos temporários
@@ -3254,218 +3147,156 @@ etc.) ou sofre as consequências do trabalho informal ou do
 subemprego. Precariedade do trabalho que se apresenta,
 assim, como o reverso da “modernização” do capitalismo
 brasileiro.
+
 Independentemente das avaliações feitas, é possível afirmar que um dos legados do governo Lula é um modelo social
 e econômico que, embora contemple certos anseios populares, orienta-se por uma tentativa de renovação do capitalismo
 brasileiro que se mostra ainda muito dependente, isto é, bastante vulnerável às condições externas do mercado e aos
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-134
-
-12/01/2011
-
-12:04
-
-Página 134
-
-AFRÂNIO MENDES CATANI
-
 padrões tecnológicos estrangeiros. Assim, um dos grandes desafios para o futuro é saber de que forma as organizações dos
 trabalhadores e os movimentos sociais populares conseguirão
 romper a lógica do consentimento e construir, de maneira autônoma, a sua própria plataforma de lutas.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
+## Indicações para leitura
 
-12/01/2011
-
-12:04
-
-Página 135
-
-INDICAÇÕES PARA LEITURA
 Há muitos livros e artigos que podem ser indicados acerca
 do tema capitalismo, quer sobre o capitalismo em geral, quer
 sobre o desenvolvimento do capitalismo no Brasil.
+
 Inicialmente, comecemos pelos clássicos, isto é, por Marx
-e por Weber. O Capital (há edição recente, da Editora Abril) e
-Formações econômicas pré-capitalistas (Paz e Terra, 1977),
+e por Weber. *O Capital* (há edição recente, da Editora Abril) e
+*Formações econômicas pré-capitalistas* (Paz e Terra, 1977),
 ambos de Karl Marx, são fundamentais. O mesmo pode ser dito
-de Historia económica general (México: Fondo de Cultura Económica, 4ª ed., 1964) e de La ética protestante y el espíritu del
-capitalismo (Barcelona: Ediciones Península, 2ª ed., 1973),
+de *Historia económica general* (México: Fondo de Cultura Económica, 4ª ed., 1964) e de *La ética protestante y el espíritu del
+capitalismo* (Barcelona: Ediciones Península, 2ª ed., 1973),
 ambas de Max Weber e também com edições em português.
+
 Alguns trabalhos de comentaristas de Marx e de Weber, bem
-como textos que exploram de maneira didática o tema do capitalismo, são de fácil acesso aos leitores brasileiros. Merecem destaque os seguintes: Reinhard Bendix, Max Weber: um perfil
-intelectual (Brasília: UnB, 1986); V. I. Lenin, “Karl Marx (breve
-nota biográfica com uma exposição do marxismo)”, in Lenin, V. I,
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-136
-
-12/01/2011
-
-12:04
-
-Página 136
-
-AFRÂNIO MENDES CATANI
-
-Obras escolhidas, vol. I (São Paulo: Alfa-Ômega, 1978); Maurice
-Dobb, Capitalismo, ontem e hoje (Lisboa: Stampa, 4ª ed., 19);
-Colectivo da Universidade de Berlim, Guia para a leitura do Capital (Lisboa: Antídoto, 1978); Josep Maria Figueras, Qué es el
-capitalismo (Barcelona: La Gaya Ciencia, 1976); Roberto
-Schwarz, Didatismo e literatura (um folheto de Bertha Dunkel),
-in Schwarz, R., O pai de família e outros estudos (Rio de Janeiro:
+como textos que exploram de maneira didática o tema do capitalismo, são de fácil acesso aos leitores brasileiros. Merecem destaque os seguintes: Reinhard Bendix, *Max Weber: um perfil
+intelectual* (Brasília: UnB, 1986); V. I. Lenin, “Karl Marx (breve
+nota biográfica com uma exposição do marxismo)”, in *Lenin*, V. I,
+*Obras escolhidas*, vol. I (São Paulo: Alfa-Ômega, 1978); Maurice
+Dobb, *Capitalismo, ontem e hoje* (Lisboa: Stampa, 4ª ed., 19);
+Colectivo da Universidade de Berlim, *Guia para a leitura do Capital* (Lisboa: Antídoto, 1978); Josep Maria Figueras, *Qué es el
+capitalismo* (Barcelona: La Gaya Ciencia, 1976); Roberto
+Schwarz, *Didatismo e literatura* (um folheto de Bertha Dunkel),
+*in* Schwarz, R., *O pai de família e outros estudos* (Rio de Janeiro:
 Paz e Terra, 1978).
+
 Sobre o desenvolvimento do capitalismo no Brasil, o livro de
-João Manuel Cardoso de Mello, O capitalismo tardio (São
+João Manuel Cardoso de Mello, *O capitalismo tardio* (São
 Paulo: Brasiliense, 1982 — há várias edições posteriores), é de
 leitura indispensável — e, conforme dissemos em páginas anteriores, nosso livro baseia-se, para o caso brasileiro, principalmente nas hipóteses e discussões desenvolvidas por Cardoso
-de Mello. Igualmente merecem destaque, por serem já considerados clássicos, os trabalhos de Caio Prado Jr., História econômica do Brasil (São Paulo: Brasiliense, 13ª ed., 1970), e de
-Celso Furtado, Formação econômica do Brasil (São Paulo: Cia.
+de Mello. Igualmente merecem destaque, por serem já considerados clássicos, os trabalhos de Caio Prado Jr., *História econômica do Brasil* (São Paulo: Brasiliense, 13ª ed., 1970), e de
+Celso Furtado, *Formação econômica do Brasil* (São Paulo: Cia.
 Ed. Nacional, 15ª ed., 1977).
+
 Acerca da industrialização brasileira, merecem destaque,
-entre outros, os livros de Sérgio Silva, Expansão cafeeira e origens da indústria no Brasil (São Paulo: Alfa-Ômega, 1976); de
+entre outros, os livros de Sérgio Silva, *Expansão cafeeira e origens da indústria no Brasil* (São Paulo: Alfa-Ômega, 1976); de
 Nícia Vilela Luz, A luta pela industrialização no Brasil (São
-Paulo: Alfa-Ômega, ed., 1978); de Warren Dean, A industrialização de São Paulo (São Paulo: DIFEL, 1971); de Maria da
-Conceição Tavares, Da substituição de importações ao capitalismo financeiro (Rio de Janeiro: Zahar, 3ª ed., 1974), e o de
-Wilson Suzigan, Indústria brasileira: origem e desenvolvimento
+Paulo: Alfa-Ômega, ed., 1978); de Warren Dean, *A industrialização de São Paulo* (São Paulo: DIFEL, 1971); de Maria da
+Conceição Tavares, *Da substituição de importações ao capitalismo financeiro* (Rio de Janeiro: Zahar, 3ª ed., 1974), e o de
+Wilson Suzigan, *Indústria brasileira: origem e desenvolvimento*
 (São Paulo: Brasiliense, 1986).
+
 Alguns outros trabalhos, também considerados clássicos,
 iluminam aspectos relevantes da sociedade brasileira, tais como
-
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 137
-
-137
-
-o de Maria Sylvia de Carvalho Franco, Homens livres na ordem
-escravocrata (São Paulo: Ática, 1974), o de Emília Viotti da
-Costa, Da colônia à senzala (São Paulo: DIFEL, 1966), e o de
-Fernando Henrique Cardoso, Mudanças sociais na América Latina (São Paulo: DIFEL, 1969 — ensaio “Condições sociais da
+o de Maria Sylvia de Carvalho Franco, *Homens livres na ordem
+escravocrata* (São Paulo: Ática, 1974), o de Emília Viotti da
+Costa, *Da colônia à senzala* (São Paulo: DIFEL, 1966), e o de
+Fernando Henrique Cardoso, *Mudanças sociais na América Latina* (São Paulo: DIFEL, 1969 — ensaio “Condições sociais da
 industrialização: o caso de São Paulo”).
-Acerca do desenvolvimento econômico brasileiro nos últimos tempos, ver Francisco de Oliveira, A economia da dependência imperfeita (Rio de Janeiro: Graal, 1977); João Manuel
-Cardoso de Mello e Luiz Gonzaga de Mello Belluzzo, Reflexões
-sobre a crise atual, in Escrita/Ensaio (nº 2, São Paulo: Vertente,
-1977); Amauri G. Bier, Leda Paulani e Roberto Messenberg, O
-heterodoxo e o pós-moderno: o cruzado em conflito (Rio de Janeiro: Paz e Terra, 1987); Francisco de Oliveira, A metamorfose do Frankenstein, in Revista de Economia Política (nº 26,
+
+Acerca do desenvolvimento econômico brasileiro nos últimos tempos, ver Francisco de Oliveira, *A economia da dependência imperfeita* (Rio de Janeiro: Graal, 1977); João Manuel
+Cardoso de Mello e Luiz Gonzaga de Mello Belluzzo, *Reflexões
+sobre a crise atual, in Escrita/Ensaio* (nº 2, São Paulo: Vertente,
+1977); Amauri G. Bier, Leda Paulani e Roberto Messenberg, *O
+heterodoxo e o pós-moderno: o cruzado em conflito* (Rio de Janeiro: Paz e Terra, 1987); Francisco de Oliveira, *A metamorfose do Frankenstein, in Revista de Economia Política* (nº 26,
 vol. 7, nº 2, abril-junho, 1987). Um interessante artigo, analisando os aspectos políticos à época do Plano Cruzado, é o de
-José Chasin, A miséria da república dos cruzados, in Revista
-Ensaio (nºs 15-16, Ensaio, 1986).
-Acerca da dívida externa brasileira, há alguns livros e artigos cuja leitura é indispensável: Alkimar Ribeiro Moura, A questão da dívida externa brasileira (São Paulo: Brasiliense, 1985);
-Paulo Davidoff Cruz, Dívida externa e política econômica: a experiência brasileira nos anos setenta (São Paulo: Brasiliense,
-1984); Pérsio Arida (org.), Dívida externa, recessão e ajuste estrutural: o Brasil diante da crise (Rio de Janeiro: Paz e Terra,
-1982); Edmar L. Bacha, Entre a acomodação e o confronto: os
-dilemas da negociação da dívida externa brasileira, 1983-1987,
-in Revista de Economia Política (nº 30, vol. 8, nº 2, abril-junho
+José Chasin, *A miséria da república dos cruzados, in Revista
+Ensaio* (nºs 15-16, Ensaio, 1986).
+
+Acerca da dívida externa brasileira, há alguns livros e artigos cuja leitura é indispensável: Alkimar Ribeiro Moura, *A questão da dívida externa brasileira* (São Paulo: Brasiliense, 1985);
+Paulo Davidoff Cruz, *Dívida externa e política econômica: a experiência brasileira nos anos setenta* (São Paulo: Brasiliense,
+1984); Pérsio Arida (org.), *Dívida externa, recessão e ajuste estrutural: o Brasil diante da crise* (Rio de Janeiro: Paz e Terra,
+1982); Edmar L. Bacha, *Entre a acomodação e o confronto: os
+dilemas da negociação da dívida externa brasileira*, 1983-1987,
+*in Revista de Economia Política* (nº 30, vol. 8, nº 2, abril-junho
 1988).
 
-CAPITALISMO miolo 144pp 2011:Layout 1
+## REFERÊNCIAS BIBLIOGRÁFICAS
 
-12/01/2011
+ANTUNES, Ricardo (Org.). *Riqueza e miséria do trabalho
+no Brasil*. São Paulo: Boitempo, 2002.
 
-12:04
-
-Página 138
-
-REFERÊNCIAS BIBLIOGRÁFICAS
-ANTUNES, Ricardo (Org.). Riqueza e miséria do trabalho
-no Brasil. São Paulo: Boitempo, 2002.
-BELLUZZO, Luiz; ALMEIDA, Júlio. Depois da queda: a
+BELLUZZO, Luiz; ALMEIDA, Júlio. *Depois da queda*: a
 economia brasileira da crise da dívida aos impasses do Real. Rio
 de Janeiro: Civilização Brasileira, 2002.
-BIHR, Alain. Da grande noite à alternativa: o movimento
+
+BIHR, Alain. *Da grande noite à alternativa*: o movimento
 operário europeu em crise. São Paulo: Boitempo, 1999.
-BIONDI, Aloysio. O Brasil privatizado: um balanço do desmonte do Estado. São Paulo: Perseu Abramo, 2001.
-BOITO JR., Armando. Política neoliberal e sindicalismo no
-Brasil. São Paulo: Xamã, 1999.
-CHESNAIS, François. A mundialização do capital. São
+
+BIONDI, Aloysio. *O Brasil privatizado*: um balanço do desmonte do Estado. São Paulo: Perseu Abramo, 2001.
+
+BOITO JR., Armando. *Política neoliberal e sindicalismo no
+Brasil*. São Paulo: Xamã, 1999.
+
+CHESNAIS, François. *A mundialização do capital*. São
 Paulo: Xamã, 1996.
+
 DUMÉNIl, Gérard e LÉVY, Dominique. O imperialismo na
-era neoliberal. Revista Crítica Marxista, n. 18, 2004.
-FILGUEIRAS, Luiz; GONÇALVES, Reinaldo. A economia
-política do governo Lula. Rio de Janeiro: Contraponto, 2007.
+era neoliberal. *Revista Crítica Marxista*, n. 18, 2004.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
+FILGUEIRAS, Luiz; GONÇALVES, Reinaldo. *A economia
+política do governo Lula*. Rio de Janeiro: Contraponto, 2007.
 
-12/01/2011
+GALVÃO, Andreia. *Neoliberalismo e reforma trabalhista
+no Brasil*. Rio de Janeiro: Revan e FAPESP, 2007.
 
-O que é capitalismo
-
-12:04
-
-Página 139
-
-139
-
-GALVÃO, Andreia. Neoliberalismo e reforma trabalhista
-no Brasil. Rio de Janeiro: Revan e FAPESP, 2007.
-HARVEY, David. O novo imperialismo. São Paulo: Loyola,
+HARVEY, David. *O novo imperialismo*. São Paulo: Loyola,
 2004.
-KLEIN, Naomi. Sem logo. São Paulo: Boitempo, 2006.
-LIPIETZ, Alain. Audácia: uma alternativa para o século 21.
+
+KLEIN, Naomi. *Sem logo*. São Paulo: Boitempo, 2006.
+
+LIPIETZ, Alain. *Audácia*: uma alternativa para o século 21.
 São Paulo: Nobel, 1991.
+
 MARTUSCELLI, Danilo Enrico. A crise do governo Collor
 e a tática do PT. Dissertação de Mestrado. Campinas, IFCH,
 Unicamp, 2005.
-MÉSZÁROS, István. Para além do capital. São Paulo: Boitempo; Campinas: Editora da Unicamp, 2002.
+
+MÉSZÁROS, István. *Para além do capital*. São Paulo: Boitempo; Campinas: Editora da Unicamp, 2002.
+
 NOVELLI, José Marcos. Inflação e desinflação: coalizões,
 conflitos e instituições no Brasil e em outros países. Tese de
 Doutorado. Campinas, IFCH, Unicamp, 2007.
-SAES, Décio. República do capital. São Paulo: Boitempo,
+
+SAES, Décio. *República do capital*. São Paulo: Boitempo,
 2001.
 
-CAPITALISMO miolo 144pp 2011:Layout 1
+## SOBRE OS AUTORES
 
-12/01/2011
-
-12:04
-
-Página 140
-
-SOBRE OS AUTORES
 Afrânio Mendes Catani é Bacharel em Administração Pública pela Fundação Getúlio Vargas (São Paulo). Mestre e Doutor em Sociologia pela FFLCH-USP. Foi professor na Fundação
 Getúlio Vargas (1976-80), na Unesp, Campus de Araraquara
 (1980-85) e na Unicamp (1985-87). Desde o final de 1986, é
 professor na Faculdade de Educação da USP.
-Publicou inúmeros artigos e comentários de livros, em diversos veículos, entre eles: Revista de Administração de Empresas
+
+Publicou inúmeros artigos e comentários de livros, em diversos veículos, entre eles: *Revista de Administração de Empresas
 (RAE), Folha de S. Paulo, Leia, Movimento, Filme-Cultura, Sala
-de Aula, Cultura e Caderno 2 (de O Estado de S. Paulo), Jornal
-da Tarde, Isto É, D. O. Leitura, Revista Brasileira de Estudos Pedagógicos, Educação Brasileira. Publicou dois outros livros pela
-Brasiliense: O que é imperialismo (1981) e A chanchada no cinema brasileiro (com J. Inácio de M. Souza, 1983). Escreveu um
+de Aula, Cultura e Caderno 2* (de O Estado de S. Paulo), *Jornal
+da Tarde, Isto É, D. O. Leitura, Revista Brasileira de Estudos Pedagógicos, Educação Brasileira*. Publicou dois outros livros pela
+Brasiliense: *O que é imperialismo* (1981) e *A chanchada no cinema brasileiro* (com J. Inácio de M. Souza, 1983). Escreveu um
 longo texto sobre o cinema industrial paulista (anos 30, 40 e 50),
-inserido em Fernão Ramos (Org.), História do cinema brasileiro
+inserido em Fernão Ramos (Org.), *História do cinema brasileiro*
 (Art Editora, 1987); o artigo “La chanchada en el cine brasileño”,
+com J. Inácio de Melo Souza, in Silvia Oroz (Org.), *Cine latinoamericano: Anõs 30-40-50* (México, Univ. Nacional Autónoma de México, 1990), bem como o livro *A educação nas
+constituições estaduais brasileiras* (com Romualdo Portela de Oliveira, Cortez Editora, 1993).
 
-CAPITALISMO miolo 144pp 2011:Layout 1
-
-12/01/2011
-
-O que é capitalismo
-
-12:04
-
-Página 141
-
-141
-
-com J. Inácio de Melo Souza, in Silvia Oroz (Org.), Cine latinoamericano: Anõs 30-40-50 (México, Univ. Nacional Autónoma de México, 1990), bem como o livro A educação nas
-constituições estaduais brasileiras (com Romualdo Portela de Oliveira, Cortez Editora, 1993).
 Adilson Marques Gennari é Bacharel e Mestre em Ciências
 Econômicas pela Pontifícia Universidade Católica de São Paulo
 (PUC-SP). Doutorando junto ao Instituto de Filosofia e Ciências Humanas (IFCH) da Unicamp. Atualmente, é professor
 do Departamento de Economia da Unesp, Campus de Araraquara.
-Sávio Cavalcante é doutorando em Sociologia pela Universidade Estadual de Campinas (Unicamp). Autor do livro Sindicalismo e privatização das telecomunicações no Brasil (São
+
+Sávio Cavalcante é doutorando em Sociologia pela Universidade Estadual de Campinas (Unicamp). Autor do livro *Sindicalismo e privatização das telecomunicações no Brasil* (São
 Paulo: Expressão Popular, 2009), resultado de sua dissertação
 de mestrado em sociologia na mesma universidade. De 2006 a
 2010, foi professor colaborador do Departamento de Ciências
 Sociais da Universidade Estadual de Londrina (UEL-PR).
-
-
